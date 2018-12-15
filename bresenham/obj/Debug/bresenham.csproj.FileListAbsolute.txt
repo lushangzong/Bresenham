@@ -1,0 +1,10 @@
+E:\大三上学期\计算机图形学基础\作业\作业1\代码\作业\bresenham\bin\Debug\bresenham.exe.config
+E:\大三上学期\计算机图形学基础\作业\作业1\代码\作业\bresenham\bin\Debug\bresenham.exe
+E:\大三上学期\计算机图形学基础\作业\作业1\代码\作业\bresenham\bin\Debug\bresenham.pdb
+E:\大三上学期\计算机图形学基础\作业\作业1\代码\作业\bresenham\obj\Debug\bresenham.csprojResolveAssemblyReference.cache
+E:\大三上学期\计算机图形学基础\作业\作业1\代码\作业\bresenham\obj\Debug\bresenham.Form1.resources
+E:\大三上学期\计算机图形学基础\作业\作业1\代码\作业\bresenham\obj\Debug\bresenham.Properties.Resources.resources
+E:\大三上学期\计算机图形学基础\作业\作业1\代码\作业\bresenham\obj\Debug\bresenham.csproj.GenerateResource.cache
+E:\大三上学期\计算机图形学基础\作业\作业1\代码\作业\bresenham\obj\Debug\bresenham.csproj.CoreCompileInputs.cache
+E:\大三上学期\计算机图形学基础\作业\作业1\代码\作业\bresenham\obj\Debug\bresenham.exe
+E:\大三上学期\计算机图形学基础\作业\作业1\代码\作业\bresenham\obj\Debug\bresenham.pdb

@@ -1,0 +1,10 @@
+E:\北大本科课程\大三上学期\计算机图形学基础\作业\作业1\代码\作业\作业\bin\Debug\作业.exe
+E:\北大本科课程\大三上学期\计算机图形学基础\作业\作业1\代码\作业\作业\bin\Debug\作业.pdb
+E:\北大本科课程\大三上学期\计算机图形学基础\作业\作业1\代码\作业\作业\obj\Debug\作业.Form1.resources
+E:\北大本科课程\大三上学期\计算机图形学基础\作业\作业1\代码\作业\作业\obj\Debug\作业.Properties.Resources.resources
+E:\北大本科课程\大三上学期\计算机图形学基础\作业\作业1\代码\作业\作业\obj\Debug\作业.csproj.GenerateResource.cache
+E:\北大本科课程\大三上学期\计算机图形学基础\作业\作业1\代码\作业\作业\obj\Debug\作业.csproj.CoreCompileInputs.cache
+E:\北大本科课程\大三上学期\计算机图形学基础\作业\作业1\代码\作业\作业\obj\Debug\作业.exe
+E:\北大本科课程\大三上学期\计算机图形学基础\作业\作业1\代码\作业\作业\obj\Debug\作业.pdb
+E:\北大本科课程\大三上学期\计算机图形学基础\作业\作业1\代码\作业\作业\bin\Debug\作业.exe.config
+E:\北大本科课程\大三上学期\计算机图形学基础\作业\作业1\代码\作业\作业\obj\Debug\作业.csprojResolveAssemblyReference.cache
